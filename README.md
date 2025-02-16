@@ -129,7 +129,7 @@ This is a simple time tracking and productivity analytics Chrome extension. The 
 
 <p>
   <b align="center">Getting Started</b><br>
-  - Clone the repository: <code>git clone https://github.com/Kaushal2212/REALTIME-DOC-EDITOR</code><br>
+  - Clone the repository: <code>git clone https://github.com/Kaushal2212/DOCUMENT-EDITOR</code><br>
   - Install dependencies: <code>npm install</code><br>
   - Set up Firebase: Configure Firebase project and update credentials.<br>
   - Start the server: <code>npm start</code><br>
